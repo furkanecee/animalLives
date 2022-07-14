@@ -1,0 +1,27 @@
+
+.logo{width: 55px; height: 55px;}
+.baslik1{color:#F00;}
+.baslik2{color:#F00;}
+.baslikdiv3{color:#F00;}
+.baslikdiv4{color:#F00; }
+
+
+
+.tablo{width: 400px; height: 300px; }
+.yon1{text-decoration: none; color: white;}
+.yon1:hover{color: white;}
+.yon2{text-decoration: none; color: white;}
+.yon2:hover{color: white;}
+.yon3{text-decoration: none; color: white;}
+.yon3:hover{color: white;}
+.yon4{text-decoration: none; color: white;}
+.yon4:hover{color: white;}
+
+
+@media{body{
+    margin:auto;
+box-sizing:border-box;
+flex-direction:row;
+flex-wrap:wrap;
+justify-content:space-around;
+align-items:center;}}

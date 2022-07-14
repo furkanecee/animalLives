@@ -1,0 +1,13 @@
+.logo{width: 55px; height: 55px;}
+
+.posta{position:relative; width:450px; left:35%; }
+.bilgi{position: relative; top: -50%;}
+
+@media{body{
+
+    margin:auto;
+box-sizing:border-box;
+flex-direction:row;
+flex-wrap:wrap;
+justify-content:space-around;
+align-items:center;}}
